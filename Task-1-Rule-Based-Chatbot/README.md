@@ -64,6 +64,15 @@ python app.py
 * Human-Computer Interaction
 
 ---
+## 📷 Screenshots
+
+### Chatbot Interface
+
+![Chatbot UI](screenshots/chatbot-ui.png)
+
+### Conversation Demo
+
+![Conversation](screenshots/conversation-demo.png)
 
 ## 📌 Author
 
