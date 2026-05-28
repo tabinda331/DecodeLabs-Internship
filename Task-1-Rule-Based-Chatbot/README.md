@@ -71,6 +71,10 @@ python app.py
 
 ![Conversation Demo](screenshots/conversation-demo.PNG))
 
+### Chatbot Interface
+
+![Chatbot UI](screenshots/chatbot-ui.PNG)
+
 ## 📌 Author
 
 Tabinda
