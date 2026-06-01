@@ -4,7 +4,7 @@
 
 This project demonstrates a complete machine learning classification pipeline using the Breast Cancer Wisconsin Dataset.
 
-The objective is to classify tumors as either:
+The objective is to classify tumors as either:.
 
 * Benign
 * Malignant
