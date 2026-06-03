@@ -62,6 +62,12 @@ Cross Validation
 ![Confusion Matrix](images/Confusion%20Matrix.PNG)
 📌 Feature Importance
 ![Feature Importance](images/Feature%20importance.PNG)
+![Dataset Overview](images/dataset_overview.png)
+![Class Distribution](images/class_distribution.png)
+![Correlation Heatmap](images/correlation_heatmap.png)
+![Model Performance](images/model_performance.png)
+![Confusion Matrix](images/confusion_matrix.png)
+![Feature Importance](images/feature_importance.png)
 
 ---
 🧠 AI Concepts Demonstrated
