@@ -1,0 +1,50 @@
+# AI Tech Stack Recommender
+
+An AI-powered recommendation system that matches user skills with technology career paths using cosine similarity and skill vectorization.
+
+## Features
+
+* Skill-based job recommendations
+* Cosine similarity scoring
+* Fuzzy skill matching
+* Skill weighting
+* Domain filtering
+* Experience-level filtering
+* Explainable recommendations
+* Interactive Gradio dashboard
+* Recommendation score visualization
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Plotly
+* Gradio
+
+## Project Pipeline
+
+1. User enters skills
+2. Skills are cleaned and normalized
+3. Skills are converted into vectors
+4. Cosine similarity is calculated
+5. Jobs are ranked by similarity score
+6. Top recommendations are displayed
+
+## Example Input
+
+python, sql, machine learning
+
+## Example Output
+
+* Data Scientist
+* Machine Learning Engineer
+* Data Analyst
+
+## Future Improvements
+
+* Resume parsing
+* Semantic embeddings
+* Career roadmap generation
+* Deployment as a web application
