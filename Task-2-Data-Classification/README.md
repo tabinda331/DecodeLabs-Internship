@@ -51,21 +51,16 @@ Cross Validation
 
 ## 📷 Visualizations
 📌 Dataset Overview
-![Dataset Overview](images/Dataset%20Overview.PNG)
-📌 Class Distribution
-![Class Distribution](images/Class%20distribution.PNG)
-📌 Correlation Heatmap
-![Correlation Heatmap](images/Correlation%20Heatmap.PNG)
-📌 Model Performance
-![Model Performance](images/Model%20Performance.PNG)
-📌 Confusion Matrix
-![Confusion Matrix](images/Confusion%20Matrix.PNG)
-📌 Feature Importance
 ![Dataset Overview](Dataset%20Overview.PNG)
+📌 Class Distribution
 ![Class Distribution](Class%20distribution.PNG)
+📌 Correlation Heatmap
 ![Correlation Heatmap](Correlation%20Heatmap.PNG)
+📌 Model Performance
 ![Model Performance](Model%20Performance.PNG)
+📌 Confusion Matrix
 ![Confusion Matrix](Confusion%20Matrix.PNG)
+📌 Feature Importance
 ![Feature Importance](Feature%20importance.PNG)
 ---
 🧠 AI Concepts Demonstrated
